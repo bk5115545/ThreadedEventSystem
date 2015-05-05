@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaskManagerCore", "TaskManagerCore\TaskManagerCore.vcxproj", "{052B0082-7EC5-4804-8200-A2063CC039AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052B0082-7EC5-4804-8200-A2063CC039AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{052B0082-7EC5-4804-8200-A2063CC039AB}.Debug|Win32.Build.0 = Debug|Win32
+		{052B0082-7EC5-4804-8200-A2063CC039AB}.Release|Win32.ActiveCfg = Release|Win32
+		{052B0082-7EC5-4804-8200-A2063CC039AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
